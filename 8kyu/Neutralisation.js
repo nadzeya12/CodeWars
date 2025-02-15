@@ -5,5 +5,5 @@
 //     But when negatives and positives interact, they become neutral, and are shown as the number 0.
 
 function neutralise(s1, s2) {
-    return str1.split("").map((char, i) => (char === str2[i] ? char : "0")).join("");
+    return str1.split("").map((char, i) => (char === str2[i] ? char : "0")).join("")
 }
